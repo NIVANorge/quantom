@@ -1,2 +1,10 @@
-# quantom
- Quantification of dissolved organic matter and the metabolic balance in river networks
+# QUANTOM
+
+## Quantification of dissolved organic matter and the metabolic balance in river networks
+
+Quantom aims to discover how land and rivers are connected to better understand the global carbon cycle and river food webs north of the Arctic circle. Rivers are the "blood vessels" draining the "body of the Earth" and export vast amounts of carbon to the sea and the atmosphere. A large fraction of this carbon is from dissolved organic matter leaching out of soils and giving the water a yellow/brown colour. On its journey to the sea, bacteria on the riverbed use oxygen to transform this terrestrial carbon into CO2. The increase in bacterial activities may suppress the growth of green algae by competing for limiting nutrients, thus changing the metabolic balance between photosynthesis and respiration (increasing CO2 emissions) and the quality of the food available for consumers.
+
+Quantom will measure the daily and annual oxygen pulses of rivers using in-situ sensors. We want to discover how these pulses are related to daily and seasonal land vegetation growth using satellite imagery from the European Space Agency and NASA. We will characterise the diversity and composition of 10,000+ organic molecules and follow their transformation across interfaces and size of streams under different hydrological conditions throughout the growing season. We will link these molecular transformations (microcosm) to river metabolism (macrocosm).
+ 
+Quantom will build a mathematical model to represent, in the most parsimonious way, our understanding of carbon processes in large northern latitude river basins with heterogeneous landscapes (rocks, tundra, pine & birch forest and peat plateau with discontinuous permafrost - frozen mounts thawing rapidly with warming). We will use the River Tana (Norway) flowing north of the arctic circle as a model river basin to collect data and run scenarios of climate and land use change. We will also test the effects of dissolved organic matter, nutrients and temperature on the metabolic balance and food webs using whole stream and lab experiments.
+
